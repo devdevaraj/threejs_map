@@ -1,0 +1,24 @@
+
+body {
+	margin: 0;
+  padding: 0;
+  border: 0;
+	background-color: #000;
+	
+	
+	overscroll-behavior: none;
+}
+
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+h1 {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+  color: #fff;
+  z-index: 1;
+}
